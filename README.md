@@ -1,0 +1,3 @@
+# Blog_django_python
+Blog_django_python
+简易的BLOG系统，Django初学小项目
